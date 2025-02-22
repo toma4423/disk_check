@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 # ライセンス情報や著作権に関するメタデータを追加できます。
-# license = "MIT OR Apache-2.0"
-# authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+authors = ["toma4423"]
 
 [dependencies]
 indicatif = "0.17.8"  # Updated to the latest version
