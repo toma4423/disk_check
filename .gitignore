@@ -1,0 +1,19 @@
+# Rust関連
+/target/
+**/*.rs.bk
+
+# IDE関連
+.vscode/
+.idea/
+*.iml
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# その他
+*.pdb
+*.exe
+*.dll
+*.dylib
+*.so 
