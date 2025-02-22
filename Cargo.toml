@@ -1,0 +1,17 @@
+[package]
+name = "check_disk"
+version = "0.1.0"
+edition = "2021"
+
+# ライセンス情報や著作権に関するメタデータを追加できます。
+# license = "MIT OR Apache-2.0"
+# authors = ["Your Name <your.email@example.com>"]
+
+[dependencies]
+indicatif = "0.17.8"  # Updated to the latest version
+rand = "0.8"
+
+[dev-dependencies]
+assert_cmd = "2.0"
+predicates = "2.0"
+tempfile = "3.3"
